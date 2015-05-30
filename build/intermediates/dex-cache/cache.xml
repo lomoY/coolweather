@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Lomo/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/Lomo/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-4addbf5575b18f541be9bd0bd078274b7e1b730d.jar" />
+    </item>
+    <item
+        jar="/Users/Lomo/Downloads/AndroidDv/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/Lomo/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-d95ee52f589e5cff2fb6630ea81a5a5f032069bf.jar" />
+    </item>
+    <item
+        jar="/Users/Lomo/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/Lomo/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/debug/classes-6793a1d3d8b2a9e7209acc21bb0980f1c98fb9a4.jar" />
+    </item>
+    <item
+        jar="/Users/Lomo/AndroidStudioProjects/CoolWeather/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/Lomo/AndroidStudioProjects/CoolWeather/app/build/intermediates/pre-dexed/debug/classes-6b804f36a07e1bbff22e94190e6ea698868bb67c.jar" />
+    </item>
+
+</items>
